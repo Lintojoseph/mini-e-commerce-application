@@ -134,7 +134,7 @@ export default function LoginPage() {
     <div className="min-h-screen grid grid-cols-1 lg:grid-cols-2">
       
       {/* LEFT IMAGE */}
-      <div className="relative hidden lg:block">
+      <div className="relative hidden lg:block h-screen w-full">
         <Image
           src="/Frame-530.png"   
           alt="Login Visual"
